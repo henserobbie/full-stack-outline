@@ -1,0 +1,15 @@
+{
+    "name": "clearbet frontend",
+    "image": "node:21",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-vscode.vscode-typescript-tslint-plugin"
+        ],
+        "settings": {
+          "terminal.integrated.shell.linux": "/bin/bash"
+        }
+      }
+    },
+    "forwardPorts": [3000]
+  }
