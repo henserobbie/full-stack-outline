@@ -1,5 +1,5 @@
 # full-stack-outline
-Demo outline for a containerized React Typescript frontend, Flask Python backend, PostreSQL database application. I was building an application and though it would be helpful to release this barebones outline for others who are begining development using the same frameworks.
+Demo outline for a containerized React Typescript frontend, Flask Python backend, PostreSQL database application. I was building an application and thought it would be helpful to release this barebones outline for others who are begining development using the same frameworks.
 
 ## Getting Started
 Install docker from https://www.docker.com. The frontend and backend run in seperate docker containers. Both are configured as development servers where changes are detected and applied in real time, allowing for faster development.
